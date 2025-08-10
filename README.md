@@ -18,7 +18,7 @@ let cupomAplicado = 'CUPOM_INVALIDO'; // Altere para 'CUPOM10' ou 'CUPOM20'
 # Tecnologias
 JavaScript
 
-# Código
+# Codigo
 ````
 const DESCONTO10 = 0.10
 const DESCONTO20 = 0.20
